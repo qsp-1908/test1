@@ -5,6 +5,7 @@ public class Test1 {
 
 	public static void main(String[] args) {
 		String name="tom";
-		System.out.println(name);
+		int a=1;
+		System.out.println(name+a);
 	}
 }
