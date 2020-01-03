@@ -8,5 +8,6 @@ public class Test1 {
 		int a=1;
 		System.out.println(name);
 		System.out.println(a);
+		System.out.println(name+a);
 	}
 }
